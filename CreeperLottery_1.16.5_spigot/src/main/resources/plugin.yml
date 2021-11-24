@@ -1,0 +1,13 @@
+name: CreeperLottery
+version: ${project.version}
+main: me.sam.creeperlottery.Main
+api-version: 1.16
+prefix: CreeperLottery
+authors: [ reddust9 ]
+description: reandomly spawns 1-20 mobs at the players location
+commands:
+  creeperlottery:
+    aliases:
+      - cl
+      - moblottery
+      - ml
