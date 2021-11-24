@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\bin\Release\LCD sender.exe.config
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\bin\Release\LCD sender.exe
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\bin\Release\LCD sender.pdb
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\obj\Release\LCD_sender.LCDS.resources
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\obj\Release\LCD_sender.Properties.Resources.resources
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\obj\Release\LCD sender.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\obj\Release\LCD sender.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\obj\Release\LCD sender.exe
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\obj\Release\LCD sender.pdb
+C:\Users\admin\source\repos\LCDSerialSender\LCD sender\obj\Release\LCD sender.csproj.AssemblyReference.cache
