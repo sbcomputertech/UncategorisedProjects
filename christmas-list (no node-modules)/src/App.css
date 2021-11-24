@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-list {
+  color: aqua;
+  font-size: 120%;
+}
+
+.App-poem {
+  color: blueviolet;
+  font-size: 120%;
+  border-style: solid;
+  border-radius: 75px;
+  border-width: 5px;
+  line-height: 175%;
+  padding: 15px;
+}
+
+.App-poem-p {
+  transform: scale(0.8);
+}
+
+.App-link {
+  color: darkgoldenrod;
+}
+
+h1 {
+  color: darkgoldenrod;
+}
