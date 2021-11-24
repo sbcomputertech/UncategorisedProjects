@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Globule\Globule\bin\Debug\Globule.exe.config
+C:\Users\admin\source\repos\Globule\Globule\bin\Debug\Globule.exe
+C:\Users\admin\source\repos\Globule\Globule\bin\Debug\Globule.pdb
+C:\Users\admin\source\repos\Globule\Globule\obj\Debug\Globule.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Globule\Globule\obj\Debug\Globule.Form1.resources
+C:\Users\admin\source\repos\Globule\Globule\obj\Debug\Globule.Properties.Resources.resources
+C:\Users\admin\source\repos\Globule\Globule\obj\Debug\Globule.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Globule\Globule\obj\Debug\Globule.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Globule\Globule\obj\Debug\Globule.exe
+C:\Users\admin\source\repos\Globule\Globule\obj\Debug\Globule.pdb
